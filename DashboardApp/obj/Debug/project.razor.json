@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\LocalOnly\\AppDev\\PLS\\15-Azure\\ModernizeWebsites\\DashboardApp\\DashboardApp\\DashboardApp.csproj",
+  "TargetFramework": "v4.5.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
